@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Sips Privacy Policy
 permalink: /sipsprivacy/
 ---
