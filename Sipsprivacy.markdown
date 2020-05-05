@@ -16,7 +16,6 @@ Sips does not have access to any names or custom cards that a player enters.  Th
 
 If you enable notifications, we must store a token to send them. We never use notifications for marketing. Notifications are not currently a feature.
 
-
 ### Ads and analytics
 
 Sips’ app collects aggregate, anonymous statistics, such as the percentage of users who use particular features, to improve the app.
