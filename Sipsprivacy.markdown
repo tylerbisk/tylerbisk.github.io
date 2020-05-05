@@ -52,7 +52,7 @@ By using Sips, you consent to our privacy policy.
 
 ### Contacting Us
 
-If you have questions regarding this privacy policy, you may email sips email. Please note that account deletion should be done within the Overcast app, not via email requests, for security reasons.
+If you have questions regarding this privacy policy, you may email <h1>Sips@gmail.com</h1>.
 
 ### Changes to this policy
 
