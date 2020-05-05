@@ -30,45 +30,30 @@ We do not share personal information with outside parties except to the extent n
 
 We may disclose your information in response to subpoenas, court orders, or other legal requirements; to exercise our legal rights or defend against legal claims; to investigate, prevent, or take action regarding illegal activities, suspected fraud or abuse, violations of our policies; or to protect our rights and property.
 
-
-### Security
-
-We implement a variety of security measures to help keep your information secure. For instance, all communication with the app and website requires HTTPS with certificate pinning. Passwords are hashed, not stored, using industry-standard methods (currently bcrypt).
-
-Accessing, changing, or deleting information
-
-You may access or change your information or delete your account from the Overcast iOS app.
-
-Deleted information may be kept in backups for up to 90 days. Backups are encrypted and are only accessed if needed for disaster recovery.
-
-Overcast may delete your information at any time and for any reason, such as technical needs, legal concerns, abuse prevention, removal of idle accounts, data loss, or any other reason.
-
-Third-party links and content
-
-Overcast displays links and content from third-party podcast feeds and sites, and downloads podcast files directly from each podcast’s third-party servers. These have their own independent privacy policies, and we have no responsibility or liability for their content or activities.
-
-California Online Privacy Protection Act Compliance
+### California Online Privacy Protection Act Compliance
 
 We comply with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
 
-Children’s Online Privacy Protection Act Compliance
+### Children’s Online Privacy Protection Act Compliance
 
 We never collect or maintain information at our website from those we actually know are under 13, and no part of our website is structured to attract anyone under 13.
 
-Information for European Union Customers
+### Information for European Union Customers
 
-By using Overcast and providing your information, you authorize us to collect, use, and store your information outside of the European Union.
+By using Sips and providing your information, you authorize us to collect, use, and store your information outside of the European Union.
 
-International Transfers of Information
+### International Transfers of Information
 
 Information may be processed, stored, and used outside of the country in which you are located. Data privacy laws vary across jurisdictions, and different laws may be applicable to your data depending on where it is processed, stored, or used.
 
-Your Consent
+### Your Consent
 
-By using our site or apps, you consent to our privacy policy.
+By using Sips, you consent to our privacy policy.
 
-Contacting Us
+### Contacting Us
 
-If you have questions regarding this privacy policy, you may email privacy@overcast.fm. Please note that account deletion should be done within the Overcast app, not via email requests, for security reasons.
+If you have questions regarding this privacy policy, you may email sips email. Please note that account deletion should be done within the Overcast app, not via email requests, for security reasons.
 
-Changes to this policy
+### Changes to this policy
+
+v1.0 May 4, 2020
