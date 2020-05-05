@@ -21,9 +21,9 @@
 title: Tyler Bisk
 email: tylerbisk@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  description
+
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://tylerbisk.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://www.tylerbisk.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: tylerbisk
 github_username:  tylerbisk
 
