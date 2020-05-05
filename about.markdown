@@ -8,5 +8,9 @@ Hi, my name is Tyler Bisk. I'm fairly new to web design but I'm working hard to 
 
 
 [Instagram](http://www.instagram.com/tylerbisk "Instagram")
+
 [Linkedin](http://www.linkedin.com/in/tylerbisk "Linkedin")
+
 [Resume](https://github.com/tylerbisk/tylerbisk.github.io/raw/master/Files/resumenew.pdf "Resume")
+
+Thanks!
